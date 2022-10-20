@@ -1,0 +1,35 @@
+body {
+    background-color: #122140;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-around;
+}
+
+.FormBox {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.Reeducar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #ffff ;
+    margin-right: 250px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.Formulario {
+    background-color: #98B0E0;
+    width: 500px;
+    height: 400px;
+    border-radius: 15px;
+}
